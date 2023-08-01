@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "SimplicialCubature"]
+	path = SimplicialCubature
+	url = https://github.com/cran/SimplicialCubature
+[submodule "SphericalCubature"]
+	path = SphericalCubature
+	url = https://github.com/cran/SphericalCubature
 [submodule "ecdfHT"]
 	path = ecdfHT
 	url = https://github.com/cran/ecdfHT
@@ -11,9 +17,3 @@
 [submodule "mvmesh"]
 	path = mvmesh
 	url = https://github.com/cran/mvmesh
-[submodule "SimplicialCubature"]
-	path = SimplicialCubature
-	url = https://github.com/cran/SimplicialCubature
-[submodule "SphericalCubature"]
-	path = SphericalCubature
-	url = https://github.com/cran/SphericalCubature
